@@ -1,4 +1,4 @@
-## Safeway
+## Safeway (target platform is Android)
 This app allows to sent emergency messages with devise location via SMS
 ### Usage
 Before starting the app turn on device location services.
